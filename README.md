@@ -1,4 +1,4 @@
-# https://DreamPaint.art
+# [DreamPaint](https://www.dreampaint.art)
 
 DreamPaint is a free online paint tool for painting with neural networks.
 
